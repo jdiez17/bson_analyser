@@ -1,0 +1,7 @@
+[package]
+name = "bson_analyse"
+version = "0.1.0"
+authors = ["Jose Diez <me@jdiez.me>"]
+
+[dependencies]
+byteorder = "0.5"
